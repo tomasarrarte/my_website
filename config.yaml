@@ -6,11 +6,10 @@ googleAnalytics: ''
 disqusShortname: ''
 params:
   banner:
-    buttonText: Get To Know Me Better!
+    buttonText: Get To Know Me Better
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hello, I'm Tomás
+      Find all you need to know about me and more in this nimble and interactive R-based website.
+    title: I am Tomás
   blog: {}
   contact:
     address:
@@ -19,7 +18,7 @@ params:
         street: Regent's Park
         title: Address
     buttonClear: Clear
-    buttonSend: Send message
+    buttonSend: Send
     email:
       - email: tarrarte.mfa2022@london.edu
         title: Email
@@ -81,38 +80,38 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
+      - image: b.jpg
         subtitle: A brief introduction
         title: About
         url: blogs/about
-      - image: pic02.jpg
-        subtitle: Music
-        title: Some bands and songs I enjoy
+      - image: c.jpg
+        subtitle: Some bands and songs I enjoy
+        title: Music
         url: blogs/music
-      - image: pic03.jpg
-        subtitle: Creative cuisine
-        title: Chef
-        url: blogs/magna
-      - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
-  two:
-    buttonText: Get Started
-    enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
-    url: blogs
+      - image: d.jpg
+        subtitle: My pre-programme Data & Analytics assignment
+        title: Before LBS
+        url: blogs/before-lbs
+      - image: e.jpg
+        subtitle: Risk-Return Data & Analytics assignment
+        title: Stocks
+        url: blogs/stocks
+  #     - image: pic05.jpg
+  #      subtitle: Ipsum Dolor Sit Amet
+  #      title: Consequat
+  #      url: blogs/ipsum
+  #    - image: pic06.jpg
+  #      subtitle: Feugiat Amet Tempus
+  #      title: Etiam
+  #      url: blogs/ipsum
+  # two:
+  #   buttonText: Get Started
+  #   enable: yes
+  #   subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
+  #     \n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \n    Pellentesque
+  #     condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
+  #     pellentesque lorem ipsum dolor. \n    Nullam et orci eu lorem consequat tincidunt.
+  #     Vivamus et sagittis libero.\n    Mauris aliquet magna magna sed nunc rhoncus
+  #     amet pharetra et feugiat tempus."
+  #  title: Feel free to reach out 
+  #  url: blogs
