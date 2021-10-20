@@ -59,24 +59,28 @@ params:
   image: ''
   name: Your name
   navigation:
-    button1:
-      - name: Get Started
-        url: blogs
-    button2:
-      - name: Log In
-        url: '#'
+#    button1:
+#      - name: Get Started
+#        url: blogs
+#    button2:
+#      - name: Log In
+#        url: '#'
     links:
       - name: Home
         url: '#'
-      - name: Blogs
-        url: blogs
-      - name: Generic Blog
-        url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+      - name: About
+        url: blogs/about
+      - name: Music
+        url: blogs/music
+      - name: Before LBS
+        url: blogs/before-lbs
+      - name: Stocks
+        url: blogs/stocks
+#      - name: Elements
+#        url: elements.html
     menu: Menu
-    subtitle: By HTML5 Up
-    title: Forty
+#    subtitle: By HTML5 Up
+    title: Home
   tiles:
     enable: yes
     showcase:
