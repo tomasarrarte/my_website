@@ -6,26 +6,26 @@ googleAnalytics: ''
 disqusShortname: ''
 params:
   banner:
-    buttonText: Get Started
+    buttonText: Get To Know Me Better!
     subtitle: |-
       A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Tomas
+    title: Hello, I'm Tomás
   blog: {}
   contact:
     address:
-      - city: City, ST 00000
-        country: Country
-        street: Street
+      - city: London, NW1 4SA
+        country: United Kingdom
+        street: Regent's Park
         title: Address
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: example@domain.com
+      - email: tarrarte.mfa2022@london.edu
         title: Email
     enable: yes
     phone:
-      - phone: (000) 000-0000 x1234
+      - phone: I do not have a phone number
         title: Phone
   custom_css: []
   custom_js: []
@@ -42,21 +42,21 @@ params:
         text: 'Design: '
         url: https://www.html5up.net
     social:
-      - icon: fa-twitter
-        label: Twitter
-        url: https://www.twitter.com
-      - icon: fa-facebook
-        label: Facebook
-        url: https://www.facebook.com
+  #    - icon: fa-twitter
+  #      label: Twitter
+  #      url: https://www.twitter.com
+  #    - icon: fa-facebook
+  #      label: Facebook
+  #      url: https://www.facebook.com
       - icon: fa-instagram
         label: Instagram
-        url: https://www.instagram.com
+        url: https://www.instagram.com/tomasarrarte/
       - icon: fa-github
         label: GitHub
-        url: https://www.github.com
+        url: https://github.com/tomasarrarte
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com
+        url: https://www.linkedin.com/in/tomasar/
   image: ''
   name: Your name
   navigation:
@@ -82,16 +82,16 @@ params:
     enable: yes
     showcase:
       - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
-        url: blogs/aliquam
+        subtitle: A brief introduction
+        title: About
+        url: blogs/about
       - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
+        subtitle: Music
+        title: Some bands and songs I enjoy
+        url: blogs/music
       - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
+        subtitle: Creative cuisine
+        title: Chef
         url: blogs/magna
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
